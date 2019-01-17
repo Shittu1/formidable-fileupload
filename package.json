@@ -1,0 +1,25 @@
+{
+  "name": "formidable-fileupload",
+  "version": "1.0.0",
+  "description": "https://www.nodejsera.com/file-upload-in-nodejs-using-express-formidable.html",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shittu1/formidable-fileupload.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shittu1/formidable-fileupload/issues"
+  },
+  "homepage": "https://github.com/Shittu1/formidable-fileupload#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "formidable": "^1.2.1"
+  }
+}
